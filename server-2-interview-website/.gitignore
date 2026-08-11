@@ -1,0 +1,35 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env*.local
+*.log
+.DS_Store
+
+# Binary artifacts — do not commit
+*.deb
+
+# Local session data — local-only, do not commit individual session files.
+storage/sessions/*
+!storage/sessions/.gitkeep
+
+# Company knowledge pipeline — generated/derived artifacts are local-only.
+# The demo seed file under company-files/ is kept so the pipeline has input.
+storage/company-markdown/**/*
+!storage/company-markdown/**/.gitkeep
+storage/company-knowledge/**/*
+!storage/company-knowledge/**/.gitkeep
+storage/generated-questions/*
+!storage/generated-questions/.gitkeep
+
+# Runtime data — user uploads, recordings, evaluations, invites
+storage/invite-tokens.json
+storage/cvs/*
+!storage/cvs/.gitkeep
+storage/recordings/*
+!storage/recordings/.gitkeep
+storage/evaluations/*
+!storage/evaluations/.gitkeep
+storage/decisions/*
+!storage/decisions/.gitkeep

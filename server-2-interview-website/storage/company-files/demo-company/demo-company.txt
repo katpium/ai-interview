@@ -1,0 +1,26 @@
+Company: DemoTech AI
+
+Role: Software Developer Intern
+
+Company overview:
+DemoTech AI builds internal AI tools that help teams automate repetitive workflows and improve productivity.
+
+Company values:
+- Clear communication
+- Learning mindset
+- Teamwork
+- Ownership
+- Practical problem solving
+
+Role requirements:
+- Basic JavaScript or Python knowledge
+- Understanding of APIs
+- Ability to debug technical problems
+- Interest in AI tools and automation
+- Willingness to learn from senior engineers
+
+Example projects:
+- Build small internal web tools
+- Connect frontend applications to backend APIs
+- Work with speech-to-text and text-to-speech services
+- Help test and improve AI-assisted workflows

@@ -1,0 +1,575 @@
+# Company Information: NovaForge Technologies
+
+## 1. Basic Company Details
+
+Company Name: NovaForge Technologies
+Industry: Artificial Intelligence, Cloud Software, Data Analytics, and Business Automation
+Founded: 2018
+Headquarters: Vancouver, British Columbia, Canada
+Company Size: Approximately 420 employees
+Company Type: Private technology company
+Primary Market: Business-to-business software
+Website: www.novaforgetech.example
+Company Slogan: Practical AI for smarter workplaces
+
+NovaForge Technologies is a fictional technology company that builds AI-powered software for businesses, education providers, hiring teams, and customer support organizations. The company focuses on creating practical AI tools that help employees complete work faster, understand information more clearly, and make better decisions.
+
+NovaForge does not try to replace human workers completely. Instead, the company designs AI systems that support people by automating repetitive tasks, organizing information, and providing useful recommendations.
+
+---
+
+## 2. Company Mission
+
+NovaForge Technologies' mission is to make intelligent automation accessible, reliable, and useful for every modern workplace.
+
+The company believes AI should be understandable, safe, and easy to use. Their products are designed to help employees, managers, and teams work more efficiently while keeping human judgment at the center of important decisions.
+
+---
+
+## 3. Company Vision
+
+NovaForge aims to become a leading provider of practical AI platforms for businesses around the world. The company wants to help organizations use AI responsibly without requiring every employee to become a machine learning expert.
+
+Their long-term vision is to create AI assistants that can work alongside people in departments such as human resources, customer service, operations, analytics, education, and training.
+
+---
+
+## 4. Company Values
+
+### Practical Innovation
+NovaForge values technology that solves real problems. The company prefers useful, reliable solutions over overly complex systems that are difficult to maintain.
+
+### Human-Centered AI
+NovaForge believes AI should support people, not replace human thinking. Their systems are designed to assist workers while leaving final decisions to humans.
+
+### Trust and Responsibility
+Because NovaForge works with company data, candidate information, and customer records, privacy and security are very important. Employees are expected to handle data carefully and follow ethical standards.
+
+### Clear Communication
+NovaForge encourages employees to explain technical ideas in simple language. Teams often include both technical and non-technical members, so clear communication is considered essential.
+
+### Continuous Learning
+AI technology changes quickly. Employees are expected to stay curious, learn new tools, and adapt to new technical challenges.
+
+### Collaboration
+Most products at NovaForge require cooperation between software engineers, data analysts, AI researchers, designers, product managers, and business teams.
+
+---
+
+## 5. Main Products
+
+### NovaAssist
+NovaAssist is an internal AI assistant platform for businesses. It helps employees search company documents, ask policy questions, and receive answers based on approved internal information.
+
+Common use cases:
+- HR policy questions
+- IT support questions
+- Employee onboarding
+- Internal knowledge search
+- Company training support
+- Meeting summary assistance
+
+Example:
+An employee could ask, "How do I request vacation time?" and NovaAssist would answer using the company’s HR policy documents.
+
+### NovaHire
+NovaHire is an AI-supported interview and hiring platform. It helps recruiters and hiring managers prepare interviews, generate role-specific questions, summarize candidate answers, and organize feedback.
+
+NovaHire does not make final hiring decisions. It is designed to support human recruiters, not replace them.
+
+Common features:
+- AI-generated interview questions
+- Candidate answer transcription
+- Interview summaries
+- Skill-based feedback
+- Role-specific question banks
+- Structured scoring rubrics
+- Recruiter review dashboard
+
+Example:
+A recruiter can upload a job description and a candidate CV. NovaHire then generates interview questions based on the role and candidate background.
+
+### NovaVoice
+NovaVoice is a speech-to-text and text-to-speech platform. It supports applications that need voice interaction, transcription, audio feedback, and accessibility tools.
+
+Common use cases:
+- AI interview simulations
+- Customer service voice bots
+- Meeting transcription
+- Voice-based training tools
+- Accessibility support
+
+Example:
+In an AI interview, NovaVoice can read a question aloud, record the candidate’s spoken answer, and convert the answer into text for analysis.
+
+### NovaFlow
+NovaFlow is a workflow automation tool that connects business applications. It helps companies automate repetitive processes between tools such as email, calendars, CRMs, spreadsheets, and ticketing systems.
+
+Common use cases:
+- Automatically creating support tickets
+- Sending follow-up emails
+- Updating dashboards
+- Routing customer requests
+- Creating task reminders
+
+### NovaInsight
+NovaInsight is a data analytics and business intelligence product. It helps companies turn raw data into dashboards, reports, and business recommendations.
+
+Common use cases:
+- Sales analysis
+- Customer behavior analysis
+- Employee performance reporting
+- Product usage dashboards
+- Customer satisfaction tracking
+- Executive reports
+
+Example:
+A company can connect sales data to NovaInsight and automatically generate monthly revenue summaries with charts and recommendations.
+
+---
+
+## 6. Target Customers
+
+NovaForge mainly serves medium-sized and large organizations that want to use AI but do not want to build every AI system from scratch.
+
+Typical customers include:
+- Technology companies
+- Universities and colleges
+- Human resources departments
+- Healthcare administration teams
+- Financial service companies
+- Customer support centers
+- Training companies
+- Retail businesses
+- Consulting firms
+
+---
+
+## 7. Departments Inside NovaForge
+
+### Engineering Department
+Responsible for building backend systems, frontend interfaces, APIs, databases, cloud infrastructure, and integrations with AI models.
+
+Common roles:
+- Software Developer
+- Backend Engineer
+- Frontend Engineer
+- Full-Stack Developer
+- DevOps Engineer
+- QA Tester
+
+### AI and Machine Learning Department
+Responsible for model integration, prompt engineering, retrieval systems, embeddings, speech models, and AI evaluation.
+
+Common roles:
+- AI Engineer
+- Machine Learning Engineer
+- Data Scientist
+- Prompt Engineer
+- Research Assistant
+
+### Data and Analytics Department
+Responsible for dashboards, reports, business metrics, data pipelines, and customer analytics.
+
+Common roles:
+- Data Analyst
+- Business Intelligence Analyst
+- Analytics Engineer
+- Data Engineer
+
+### Product Department
+Responsible for product planning, customer research, feature design, and prioritization.
+
+Common roles:
+- Product Manager
+- Product Designer
+- UX Researcher
+- Business Analyst
+
+### Customer Success Department
+Responsible for helping customers use NovaForge products effectively.
+
+Common roles:
+- Customer Success Manager
+- Technical Support Specialist
+- Implementation Specialist
+
+---
+
+## 8. Work Culture
+
+NovaForge has a collaborative and learning-focused work culture. Employees are encouraged to ask questions, document their work, and share knowledge with others.
+
+The company values employees who:
+- Communicate clearly
+- Ask for feedback
+- Test their work carefully
+- Take responsibility for mistakes
+- Respect deadlines
+- Learn from others
+- Think about user needs
+- Keep security and privacy in mind
+
+The company does not expect junior employees to know everything. However, it expects them to be honest about what they know, willing to learn, and responsible with assigned tasks.
+
+---
+
+## 9. Example Role: Junior Data Analyst
+
+Role Title: Junior Data Analyst
+Department: Data and Analytics
+
+Role Summary:
+A Junior Data Analyst at NovaForge helps collect, clean, analyze, and visualize business data. This role supports internal teams by creating reports, dashboards, and insights that help the company make better decisions.
+
+The role is suitable for someone early in their data career who understands spreadsheets, SQL, Python basics, and data visualization tools.
+
+Key Responsibilities:
+- Clean and organize datasets
+- Write basic SQL queries
+- Create dashboards and reports
+- Analyze customer, product, and business data
+- Identify trends and patterns
+- Check data for errors and missing values
+- Communicate findings to non-technical teammates
+- Support business teams with data requests
+- Document analysis steps clearly
+- Work with engineers and product managers to understand data needs
+
+Required Skills:
+- Microsoft Excel or Google Sheets
+- Basic SQL
+- Basic Python
+- Data cleaning
+- Data visualization
+- Basic statistics
+- Clear written communication
+- Attention to detail
+
+Preferred Skills:
+- Tableau or Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Dashboard design
+- Business analysis
+- Understanding of KPIs
+- Basic knowledge of databases
+
+Example Day-to-Day Tasks:
+- Cleaning a CSV file from a customer survey
+- Writing a SQL query to count active users
+- Creating a dashboard showing product usage trends
+- Checking why a sales report number does not match another report
+- Summarizing customer feedback into categories
+- Presenting a short analysis to a product manager
+
+What Success Looks Like:
+A successful Junior Data Analyst at NovaForge produces accurate reports, asks good questions, checks their work carefully, and explains findings clearly. They do not need to know advanced machine learning, but they should be comfortable learning new tools and improving their technical skills.
+
+---
+
+## 10. Example Role: Senior Data Analyst
+
+Role Title: Senior Data Analyst
+Department: Data and Analytics
+
+Role Summary:
+A Senior Data Analyst at NovaForge leads complex analysis projects, designs metrics, validates data quality, and helps business leaders make strategic decisions. This role requires stronger technical skills, business judgment, and communication ability.
+
+Key Responsibilities:
+- Design dashboards for leadership teams
+- Define and validate business metrics
+- Lead analysis projects
+- Review junior analysts’ work
+- Write complex SQL queries
+- Analyze product usage and customer behavior
+- Identify business risks and opportunities
+- Communicate insights to executives
+- Work with data engineers to improve data pipelines
+- Create documentation for reporting standards
+
+Required Skills:
+- Advanced SQL
+- Strong data visualization skills
+- Strong business analysis skills
+- Experience with dashboard tools
+- Ability to explain complex findings simply
+- Data quality validation
+- Stakeholder communication
+- Experience mentoring junior analysts
+
+What Success Looks Like:
+A successful Senior Data Analyst can turn vague business questions into clear analysis plans, identify reliable metrics, and communicate insights that guide important company decisions.
+
+---
+
+## 11. AI Interview System Context
+
+For an AI interview simulation, NovaForge Technologies can be used as the fictional company interviewing candidates.
+
+The AI interviewer should behave like a professional recruiter or hiring manager. It should ask clear questions, listen to candidate answers, and provide respectful feedback.
+
+The AI interviewer should not:
+- Ask illegal or discriminatory questions
+- Make final hiring decisions without human review
+- Ask overly personal questions
+- Reveal private company information
+- Give unfair feedback based on irrelevant details
+
+The AI interviewer should:
+- Ask role-relevant questions
+- Adjust difficulty based on seniority level
+- Use the candidate CV as context
+- Use company information as context
+- Ask follow-up questions when useful
+- Keep the interview structured
+- Give concise and constructive feedback
+
+---
+
+## 12. Recommended Interview Structure
+
+Maximum Questions: 6
+
+Question 1: Introduction
+Purpose: Understand the candidate’s background and communication style.
+Example: "Tell me about yourself and your interest in this role."
+
+Question 2: Company and Role Motivation
+Purpose: Check whether the candidate understands the company and role.
+Example: "Why are you interested in working at NovaForge Technologies as a Data Analyst?"
+
+Question 3: Experience or Project Question
+Purpose: Let the candidate explain relevant experience.
+Example: "Can you describe a data project you worked on and what you learned from it?"
+
+Transition Message:
+This should not count as a question.
+Example: "Thank you. I will now ask a few technical questions related to data analysis."
+
+Question 4: Technical Question 1
+Purpose: Test basic role knowledge.
+Junior example: "How would you handle missing values in a dataset?"
+Senior example: "How would you validate that a key business metric is reliable?"
+
+Question 5: Technical Question 2
+Purpose: Test practical problem-solving.
+Junior example: "Can you explain the difference between filtering data with WHERE and grouping data with GROUP BY in SQL?"
+Senior example: "How would you design a dashboard for executives who need to track product performance?"
+
+Question 6: Closing or Problem-Solving Question
+Purpose: Understand work habits and professionalism.
+Example: "What would you do if your analysis produced a result that seemed incorrect?"
+
+---
+
+## 13. Junior Data Analyst Interview Questions
+
+General Questions:
+1. Tell me about yourself and why you are interested in data analysis.
+2. Why are you interested in NovaForge Technologies?
+3. What do you know about our products?
+4. What kind of data projects have you worked on?
+
+Technical Questions:
+1. What is data cleaning, and why is it important?
+2. How would you handle missing values in a dataset?
+3. What is the difference between a row and a column?
+4. What is a primary key in a database?
+5. What is the difference between WHERE and GROUP BY in SQL?
+6. What is a dashboard used for?
+7. How would you explain a chart to someone who is not technical?
+8. What is an average, and when might it be misleading?
+9. What is the difference between a bar chart and a line chart?
+10. How would you check if a dataset has duplicate records?
+
+Behavioral Questions:
+1. Tell me about a time you had to learn a new tool.
+2. Describe a time you found an error in your work.
+3. How do you stay organized when working with data?
+4. How do you ask for help when you are stuck?
+5. How do you handle feedback?
+
+---
+
+## 14. Senior Data Analyst Interview Questions
+
+General Questions:
+1. Tell me about your experience leading analytics projects.
+2. How do you decide which metrics matter most?
+3. How do you communicate insights to executives?
+4. What makes a dashboard useful?
+
+Technical Questions:
+1. How would you validate the reliability of a business metric?
+2. How would you design a data quality monitoring process?
+3. How would you investigate a sudden drop in user engagement?
+4. How would you handle conflicting data from two sources?
+5. How would you structure an analysis project from a vague business question?
+6. How would you mentor a junior analyst?
+7. How would you design a dashboard for product performance?
+8. How would you explain correlation versus causation to a stakeholder?
+9. How would you prioritize multiple urgent data requests?
+10. How would you evaluate whether an AI feature improved user productivity?
+
+---
+
+## 15. Candidate Evaluation Criteria
+
+Communication:
+Does the candidate explain ideas clearly? Can they structure answers in a way that is easy to follow?
+
+Role Knowledge:
+Does the candidate understand basic concepts required for the role?
+
+Problem Solving:
+Can the candidate explain how they would approach a task or challenge?
+
+Data Accuracy and Responsibility:
+Does the candidate show care when handling data? Do they mention checking work, validating results, or avoiding unsupported conclusions?
+
+Learning Ability:
+Does the candidate show willingness to learn new tools and improve?
+
+Company Fit:
+Does the candidate understand NovaForge’s mission and values? Do they show interest in responsible AI and practical business tools?
+
+Professionalism:
+Does the candidate answer respectfully and stay focused on the question?
+
+---
+
+## 16. Scoring Rubric
+
+Score each category from 1 to 5.
+
+1 - Weak:
+The answer is unclear, incomplete, or unrelated to the question.
+
+2 - Developing:
+The answer shows some understanding but lacks detail or examples.
+
+3 - Good:
+The answer is clear and relevant, with basic examples or reasoning.
+
+4 - Strong:
+The answer is well-structured and includes specific examples or thoughtful reasoning.
+
+5 - Excellent:
+The answer is clear, specific, role-relevant, and shows strong understanding.
+
+Suggested categories:
+- Communication
+- Technical understanding
+- Problem-solving approach
+- Role fit
+- Learning mindset
+- Professionalism
+
+---
+
+## 17. Sample Candidate Feedback Style
+
+Feedback should be short, respectful, and specific.
+
+Example:
+"Your answer was clear and showed that you understand the importance of data cleaning. To improve, you could give a specific example of a time you handled missing or inconsistent data."
+
+Another example:
+"You explained your project well and connected it to the Data Analyst role. A stronger answer would include more detail about the tools you used and the impact of your analysis."
+
+---
+
+## 18. Sample AI Interviewer Introduction
+
+Hello, and welcome to your interview with NovaForge Technologies. My name is Alex, and I will be your AI interviewer today.
+
+This interview will include up to six questions. I will ask about your background, your interest in the role, your project experience, and a few technical questions related to the position.
+
+Please answer as clearly as you can. You do not need to be perfect. We are mainly looking at how you explain your thinking, solve problems, and connect your experience to the role.
+
+Let’s begin.
+
+---
+
+## 19. Example Interview for Junior Data Analyst
+
+Question 1:
+Tell me about yourself and why you are interested in data analysis.
+
+Question 2:
+Why are you interested in working at NovaForge Technologies as a Junior Data Analyst?
+
+Question 3:
+Can you describe a data project you worked on and what your role was?
+
+Transition:
+Thank you. I will now ask a few technical questions related to data analysis.
+
+Question 4:
+How would you handle missing or inconsistent data in a dataset?
+
+Question 5:
+Can you explain the difference between using WHERE and GROUP BY in SQL?
+
+Question 6:
+What would you do if your analysis showed a result that seemed incorrect?
+
+---
+
+## 20. Example Interview for Senior Data Analyst
+
+Question 1:
+Tell me about your background and experience in analytics.
+
+Question 2:
+Why are you interested in NovaForge Technologies and our data products?
+
+Question 3:
+Can you describe an analytics project where your work influenced a business decision?
+
+Transition:
+Thank you. I will now ask a few technical questions related to senior-level data analysis.
+
+Question 4:
+How would you validate that a key business metric is accurate and reliable?
+
+Question 5:
+How would you design an executive dashboard for tracking product performance?
+
+Question 6:
+How would you handle a situation where two departments disagree on the meaning of a metric?
+
+---
+
+## 21. Notes for Developers
+
+This company file can be used as sample context for an AI interview system.
+
+Possible uses:
+- Generate interview questions from company context
+- Match candidate CVs to role requirements
+- Test retrieval-augmented generation
+- Test LightRAG retrieval
+- Test embeddings
+- Generate role-specific interview flows
+- Evaluate candidate answers
+- Create realistic demo data
+
+Recommended implementation:
+- Store the company file in the knowledge base
+- Retrieve only relevant sections for each interview
+- Include role and seniority in the prompt
+- Keep generated questions short
+- Pre-generate question text and TTS audio before the candidate needs it
+- Keep maximum actual questions to six
+- Use transition messages that do not count as questions
+- Run answer evaluation in the background
+- Avoid sending the entire company file to the LLM every turn
+
+---
+
+## 22. Important Disclaimer
+
+NovaForge Technologies is a fictional company created for testing and educational purposes. It should not be presented as a real company.

@@ -1,0 +1,6 @@
+# Root-level
+node_modules
+package-lock.json
+.claude/
+*.log
+.DS_Store

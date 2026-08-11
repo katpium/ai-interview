@@ -1,0 +1,1136 @@
+{
+  "UX/UI Designer": {
+    "responsibilities": [
+      "Create wireframes and interactive prototypes for web and mobile features",
+      "Conduct usability testing and synthesize research findings into design decisions",
+      "Build and maintain design systems and component libraries",
+      "Prepare design handoff documentation and assets for developers",
+      "Perform user research and translate insights into actionable design changes",
+      "Ensure accessibility compliance across all interface surfaces"
+    ],
+    "collaborators": [
+      "Software engineers / developers",
+      "Product managers",
+      "QA engineers",
+      "Content strategists",
+      "Stakeholders and leadership"
+    ],
+    "behavioralScenarios": [
+      "Disagreement with a developer about design implementation fidelity",
+      "Simplifying a design due to technical constraints or time pressure",
+      "Changing design direction based on unexpected user research findings",
+      "Advocating for accessibility when it conflicted with business timelines",
+      "Working with a product manager to descope UI features without harming UX"
+    ],
+    "technicalTopics": [
+      "Accessibility and WCAG compliance",
+      "Design systems and component libraries",
+      "Prototyping and interactive mockups",
+      "Usability testing methodologies",
+      "Design handoff to development (tokens, specs, assets)",
+      "Responsive and adaptive design",
+      "A/B testing and UX metrics",
+      "User research and interview techniques"
+    ],
+    "requiredKeywords": [
+      "design",
+      "user",
+      "prototype",
+      "wireframe",
+      "developer",
+      "handoff",
+      "usability",
+      "accessibility",
+      "product manager",
+      "feedback",
+      "visual",
+      "component",
+      "interface",
+      "experience",
+      "figma",
+      "research"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your design background and describe the kind of user problems or interfaces you find most rewarding to work on?"
+      ],
+      "behavioral": [
+        "Teamwork extends beyond designers. Have you ever had a disagreement with a developer about a design implementation? How did you resolve it?",
+        "Design deadlines can force difficult tradeoffs. Tell me about a time you had to simplify a UX design because of technical or time constraints. What did you cut, and how did you protect the user experience?",
+        "We aim to be research-driven. Describe a time when usability testing caused you to significantly change a design direction. What did you learn, and how did you communicate the change to your team?"
+      ],
+      "technical": [
+        "Accessibility is crucial in our interfaces. Walk me through how you approach WCAG 2.1 compliance when preparing a design handoff for developers. What documentation do you include?",
+        "Walk me through your process for running a usability test on a new feature. How do you choose participants, what tasks do you give them, and how do you translate findings into design changes?",
+        "Describe how you would structure a design system for a product that has both web and mobile surfaces. How do you handle component variants and design tokens?"
+      ]
+    }
+  },
+  "Software Engineer": {
+    "responsibilities": [
+      "Design, build, and maintain backend and frontend services",
+      "Write and review production-quality code with thorough test coverage",
+      "Design and integrate REST or GraphQL APIs",
+      "Debug and resolve production issues under time pressure",
+      "Participate in system design discussions and architectural decisions",
+      "Collaborate with product and design on feature requirements"
+    ],
+    "collaborators": [
+      "Product managers",
+      "Designers / UX engineers",
+      "QA engineers",
+      "DevOps and SRE teams",
+      "Other software engineers and tech leads"
+    ],
+    "behavioralScenarios": [
+      "Debugging a critical production bug affecting live users",
+      "Technical disagreement during a code review with a colleague",
+      "Balancing technical debt reduction against new feature delivery",
+      "Working with a designer to implement a complex UI component",
+      "Unexpected performance regression discovered after a deployment"
+    ],
+    "technicalTopics": [
+      "API design (REST, GraphQL, versioning)",
+      "System design and scalability",
+      "Code review and maintainability",
+      "Testing strategies (unit, integration, e2e)",
+      "Debugging and observability",
+      "Deployment and CI/CD pipelines",
+      "Database design and query optimization",
+      "Performance and latency optimization",
+      "Security best practices",
+      "Concurrency and async programming"
+    ],
+    "requiredKeywords": [
+      "code",
+      "API",
+      "system",
+      "bug",
+      "debug",
+      "deploy",
+      "test",
+      "performance",
+      "security",
+      "backend",
+      "frontend",
+      "database",
+      "architecture",
+      "review",
+      "refactor",
+      "service",
+      "endpoint",
+      "latency",
+      "pipeline"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you tell us about your engineering background and describe the kinds of systems or technical problems you have enjoyed working on most?"
+      ],
+      "behavioral": [
+        "Code review is a core part of engineering culture. Tell me about a time you disagreed with a colleague during a code review — either you were reviewing their code or they were reviewing yours. How did you handle it?",
+        "Production bugs do not wait for business hours. Walk me through how you diagnosed and resolved a critical issue that was actively affecting users in production.",
+        "Technical debt is a reality. Describe a situation where you had to decide between fixing a long-standing codebase issue and shipping a new feature. How did you make that call?"
+      ],
+      "technical": [
+        "You are designing a REST API for a real-time interview platform that needs to support 5,000 concurrent sessions. Walk me through how you would structure the endpoints, handle authentication, and think about rate limiting and failover.",
+        "Imagine you deployed a new feature and within 15 minutes your monitoring shows a 4x spike in database query latency. Walk me through exactly how you would diagnose and address this in production.",
+        "You need to add end-to-end encryption to a messaging feature already used by 100,000 users. How do you design the key management, handle backward compatibility, and test the rollout?"
+      ]
+    }
+  },
+  "Machine Learning Engineer": {
+    "responsibilities": [
+      "Design and train machine learning models for production use cases",
+      "Build and maintain scalable data pipelines for model training",
+      "Perform feature engineering and data preprocessing",
+      "Deploy, monitor, and retrain models in production environments",
+      "Evaluate model performance and identify bias or failure modes",
+      "Collaborate with data scientists to bring experiments to production"
+    ],
+    "collaborators": [
+      "Data scientists",
+      "Data engineers",
+      "Software engineers",
+      "Product managers",
+      "Domain experts and business stakeholders"
+    ],
+    "behavioralScenarios": [
+      "Model performs well in evaluation but poorly in production (distribution shift)",
+      "Stakeholder pressure to deploy a model before it is sufficiently validated",
+      "Data quality issues discovered late in the training pipeline",
+      "Tradeoff between model accuracy and inference latency for a real-time use case",
+      "Explaining a model's limitations or failure modes to a non-technical audience"
+    ],
+    "technicalTopics": [
+      "Model training and hyperparameter tuning",
+      "Feature engineering and selection",
+      "Data pipelines and ETL for ML",
+      "Model evaluation metrics and validation strategies",
+      "MLOps and model deployment",
+      "Model monitoring and drift detection",
+      "Neural network architectures",
+      "Training data quality and labeling",
+      "A/B testing for ML models",
+      "Bias, fairness, and responsible AI"
+    ],
+    "requiredKeywords": [
+      "model",
+      "data",
+      "training",
+      "inference",
+      "pipeline",
+      "feature",
+      "accuracy",
+      "metrics",
+      "deployment",
+      "ML",
+      "algorithm",
+      "dataset",
+      "neural",
+      "evaluation",
+      "prediction",
+      "embedding",
+      "gradient",
+      "loss",
+      "bias",
+      "drift"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in machine learning and describe the types of models or ML systems you have worked with most?"
+      ],
+      "behavioral": [
+        "Production ML behaves differently than lab experiments. Tell me about a time a model you trained performed well in evaluation but underperformed after deployment. How did you investigate and fix it?",
+        "Shipping models has real consequences. Describe a time you had to push back on a stakeholder who wanted to deploy a model before you felt it was sufficiently validated. How did you make your case?",
+        "Data quality is often the hardest part. Tell me about a time you discovered a significant data quality issue late in your training pipeline. How did you respond and what did you change?"
+      ],
+      "technical": [
+        "You have a text classification model with 91% accuracy on your holdout set, but your business team reports only 76% accuracy in production. Walk me through how you would investigate this gap systematically.",
+        "Design a daily batch ML pipeline that ingests raw user interaction logs, builds training features, retrains a recommendation model, validates it against a baseline, and deploys only if performance thresholds are met.",
+        "You need to serve a large language model for real-time inference with a p99 latency target of 200ms. Walk me through how you would approach model optimization, serving infrastructure, and fallback strategies."
+      ]
+    }
+  },
+  "Full-Stack Engineer": {
+    "responsibilities": [
+      "Build and own features across frontend and backend end-to-end",
+      "Design and implement REST and GraphQL APIs consumed by the frontend",
+      "Write responsive, accessible UI components and integrate them with backend services",
+      "Integrate third-party services and manage data flows across the stack",
+      "Set up and maintain CI/CD pipelines for full-stack services",
+      "Collaborate closely with designers and product managers on feature requirements"
+    ],
+    "collaborators": [
+      "Product managers",
+      "UI/UX designers",
+      "Backend engineers",
+      "DevOps teams",
+      "QA engineers"
+    ],
+    "behavioralScenarios": [
+      "Taking full ownership of a feature from API design to UI delivery",
+      "Performance bottleneck spanning both frontend rendering and backend database queries",
+      "Balancing frontend state complexity with a clean backend API contract",
+      "Coordinating with a designer on a complex interactive component",
+      "Discovering a security issue in your own production code"
+    ],
+    "technicalTopics": [
+      "Frontend frameworks and component architecture",
+      "REST and GraphQL API design",
+      "State management and data fetching",
+      "Database schema design",
+      "Authentication and session management",
+      "Responsive and accessible UI development",
+      "Testing across the stack (unit, integration, e2e)",
+      "CI/CD and deployment"
+    ],
+    "requiredKeywords": [
+      "frontend",
+      "backend",
+      "API",
+      "component",
+      "database",
+      "state",
+      "UI",
+      "deploy",
+      "test",
+      "code",
+      "endpoint",
+      "service",
+      "integration",
+      "performance",
+      "authentication",
+      "stack",
+      "feature"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background as a full-stack engineer and describe the kind of systems you enjoy building end-to-end?"
+      ],
+      "behavioral": [
+        "Full-stack ownership means you are accountable across the whole feature. Tell me about a time a bug you shipped affected users — how did you identify it, own the fix, and prevent recurrence?",
+        "Frontend and backend design decisions often conflict. Describe a time you had to make a tradeoff between a clean API contract and a simpler frontend implementation. How did you decide?"
+      ],
+      "technical": [
+        "You are building a real-time dashboard that displays live data for up to 2,000 concurrent users. Walk me through your choices for the frontend data-fetching strategy, API design, and backend data source.",
+        "Describe how you would add role-based access control to a full-stack application that currently has no permissions system, without breaking existing functionality."
+      ]
+    }
+  },
+  "Backend Engineer": {
+    "responsibilities": [
+      "Design and build scalable server-side services and APIs",
+      "Optimize database queries and data access patterns",
+      "Implement authentication, authorization, and security controls",
+      "Handle asynchronous processing, queues, and event-driven systems",
+      "Write comprehensive integration and unit tests",
+      "Monitor service health and respond to production incidents"
+    ],
+    "collaborators": [
+      "Frontend engineers",
+      "DevOps and SRE teams",
+      "Product managers",
+      "Data engineers",
+      "QA engineers"
+    ],
+    "behavioralScenarios": [
+      "Diagnosing a performance regression in a high-traffic API endpoint",
+      "Designing a service to handle 10x the current traffic load",
+      "Discovering a security vulnerability in production code",
+      "Migrating a legacy monolith service to microservices without downtime",
+      "Balancing consistency vs availability in a distributed system decision"
+    ],
+    "technicalTopics": [
+      "REST and GraphQL API design",
+      "Database design and query optimization",
+      "Caching strategies",
+      "Microservices and service communication",
+      "Async processing and message queues",
+      "Authentication and authorization (JWT, OAuth)",
+      "Security and data protection",
+      "Monitoring, logging, and observability"
+    ],
+    "requiredKeywords": [
+      "API",
+      "service",
+      "database",
+      "backend",
+      "endpoint",
+      "query",
+      "performance",
+      "security",
+      "authentication",
+      "cache",
+      "latency",
+      "throughput",
+      "server",
+      "microservice",
+      "queue",
+      "event",
+      "concurrency"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you tell us about the backend systems you have designed or maintained, and what kinds of scalability or reliability problems you find most interesting?"
+      ],
+      "behavioral": [
+        "Backend reliability is critical. Walk me through a time when a backend service you owned experienced a production incident — how did you triage it, communicate with stakeholders, and implement a fix?",
+        "API design decisions live forever. Tell me about a time you had to evolve a public API without breaking existing consumers. How did you approach versioning and the rollout?"
+      ],
+      "technical": [
+        "You are designing a backend API for a notification service that needs to deliver 1 million messages per day across email, SMS, and push channels. Walk me through the service architecture, delivery guarantees, and retry logic.",
+        "A database query that was running in 50ms is now taking 4 seconds after a recent data migration. Walk me through how you would diagnose and optimize it."
+      ]
+    }
+  },
+  "Frontend Engineer": {
+    "responsibilities": [
+      "Build responsive, accessible UI components and pages",
+      "Implement complex state management and data-fetching patterns",
+      "Optimize frontend performance including bundle size, rendering, and caching",
+      "Collaborate with designers on pixel-accurate implementation",
+      "Write component tests and end-to-end tests",
+      "Maintain design system components and documentation"
+    ],
+    "collaborators": [
+      "UI/UX designers",
+      "Backend engineers",
+      "Product managers",
+      "QA engineers",
+      "Accessibility specialists"
+    ],
+    "behavioralScenarios": [
+      "Discovering that a design is technically infeasible and negotiating an alternative",
+      "Performance degradation caused by a third-party component or heavy bundle",
+      "Cross-browser compatibility issue found late in QA",
+      "Collaborating with backend on API design to optimize frontend data fetching",
+      "Implementing a complex animation or interaction under accessibility constraints"
+    ],
+    "technicalTopics": [
+      "React or component-based architecture",
+      "State management (Redux, Zustand, Context API)",
+      "Data fetching and caching",
+      "Performance optimization (code splitting, lazy loading, memoization)",
+      "Accessibility (ARIA, keyboard navigation, screen reader support)",
+      "CSS and responsive design",
+      "Testing (unit, integration, visual regression)",
+      "Build tooling and bundlers"
+    ],
+    "requiredKeywords": [
+      "component",
+      "UI",
+      "frontend",
+      "render",
+      "state",
+      "performance",
+      "accessibility",
+      "design",
+      "CSS",
+      "browser",
+      "bundle",
+      "test",
+      "hook",
+      "DOM",
+      "responsive",
+      "animation",
+      "layout"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your experience as a frontend engineer and describe the kinds of UI problems or interactions you enjoy building most?"
+      ],
+      "behavioral": [
+        "Frontend performance affects users directly. Tell me about a time you identified and fixed a significant performance problem in a frontend application. What was the bottleneck and how did you measure the improvement?",
+        "Designers and engineers see the same feature differently. Describe a time you had to push back on a design implementation because of browser limitations, accessibility concerns, or performance costs. How did you negotiate?"
+      ],
+      "technical": [
+        "You are building a data table that needs to display 50,000 rows with sorting, filtering, and inline editing. Walk me through your approach to rendering performance, state management, and accessibility.",
+        "Describe how you would implement optimistic UI updates for a collaborative editing feature where multiple users can modify the same data simultaneously."
+      ]
+    }
+  },
+  "Data Scientist": {
+    "responsibilities": [
+      "Analyze large datasets to identify trends, patterns, and actionable business insights",
+      "Build statistical models and machine learning solutions for business problems",
+      "Design and analyze experiments and A/B tests",
+      "Communicate findings clearly to technical and non-technical stakeholders",
+      "Collaborate with data engineers to ensure data quality and pipeline reliability",
+      "Define and track metrics that measure product and business outcomes"
+    ],
+    "collaborators": [
+      "Product managers",
+      "Data engineers",
+      "Machine learning engineers",
+      "Business stakeholders",
+      "Software engineers"
+    ],
+    "behavioralScenarios": [
+      "Discovering data quality issues that invalidated a previous analysis or model",
+      "Communicating an unpopular or counterintuitive finding to a business stakeholder",
+      "Balancing analysis depth against a time-sensitive business decision",
+      "Disagreement with a stakeholder about how to interpret a metric or experiment result",
+      "Building an automated report or model that replaced a manual process"
+    ],
+    "technicalTopics": [
+      "Statistical analysis and hypothesis testing",
+      "Machine learning modeling and feature engineering",
+      "A/B testing and experiment design",
+      "SQL and data querying",
+      "Data visualization and dashboarding",
+      "Python or R for analysis",
+      "Data cleaning and preprocessing",
+      "Metric definition and KPI frameworks"
+    ],
+    "requiredKeywords": [
+      "data",
+      "model",
+      "analysis",
+      "metric",
+      "statistics",
+      "experiment",
+      "A/B test",
+      "insight",
+      "visualization",
+      "SQL",
+      "feature",
+      "prediction",
+      "dataset",
+      "hypothesis",
+      "trend",
+      "KPI",
+      "stakeholder"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in data science and describe the types of datasets, models, or business problems you have found most interesting to work on?"
+      ],
+      "behavioral": [
+        "Data tells stories that are not always what stakeholders want to hear. Tell me about a time your analysis revealed a result that contradicted an assumption held by leadership. How did you present it?",
+        "Data quality is the silent killer of analysis. Describe a time you discovered a significant data quality issue after you had already shared preliminary findings. How did you handle it?"
+      ],
+      "technical": [
+        "You are given a dataset of user session events for the past year with 500 million rows. A product manager wants to know which UI flows have the highest drop-off rates. Walk me through how you would structure your query and what visualizations you would build.",
+        "Describe how you would design and analyze an A/B test for a new checkout flow, including how you determine sample size, choose your success metric, and decide when to call a winner."
+      ]
+    }
+  },
+  "Data Analyst": {
+    "responsibilities": [
+      "Analyze business data to surface insights and support decision-making",
+      "Build and maintain dashboards and automated reports for stakeholders",
+      "Define, track, and interpret key performance metrics and KPIs",
+      "Collaborate with engineering to ensure data pipeline accuracy",
+      "Perform ad-hoc analysis to answer urgent business questions",
+      "Translate analytical findings into clear, actionable recommendations"
+    ],
+    "collaborators": [
+      "Product managers",
+      "Business stakeholders",
+      "Data engineers",
+      "Marketing and operations teams",
+      "Finance and leadership"
+    ],
+    "behavioralScenarios": [
+      "Discovering data inconsistencies that invalidated a report shared with leadership",
+      "Presenting a finding that contradicted a stakeholder's preferred narrative",
+      "Building an automated dashboard that replaced a manual weekly report",
+      "Balancing analytical depth against a tight business deadline",
+      "Explaining a statistical concept to a non-technical audience"
+    ],
+    "technicalTopics": [
+      "SQL and query optimization",
+      "Data visualization (Tableau, Power BI, Looker, etc.)",
+      "Metric definition and KPI frameworks",
+      "A/B testing and experiment analysis",
+      "Data cleaning and validation",
+      "Statistical analysis and trend detection",
+      "ETL and data pipeline basics",
+      "Spreadsheet modeling and analysis"
+    ],
+    "requiredKeywords": [
+      "data",
+      "analysis",
+      "metric",
+      "dashboard",
+      "SQL",
+      "query",
+      "report",
+      "insight",
+      "visualization",
+      "trend",
+      "KPI",
+      "stakeholder",
+      "dataset",
+      "business",
+      "statistics"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in data analysis and describe the types of business questions or datasets you have most enjoyed working with?"
+      ],
+      "behavioral": [
+        "Analytical findings are not always welcome. Tell me about a time your data analysis contradicted a business assumption that leadership held. How did you present your findings and what happened?",
+        "Dashboards are only useful if the data is trustworthy. Describe a time you discovered that a report or dashboard you owned had a data quality issue. How did you handle it and communicate the problem?"
+      ],
+      "technical": [
+        "You have a table with 200 million rows of user event data. A business stakeholder wants to understand which marketing channels drive the highest 30-day retention. Walk me through how you would write the SQL and structure the final report.",
+        "Describe how you would design a KPI dashboard for a new product feature, including which metrics you would track, how you would handle missing data, and how you would alert stakeholders to significant changes."
+      ]
+    }
+  },
+  "Product Manager": {
+    "responsibilities": [
+      "Define product vision, roadmap, and feature prioritization",
+      "Write and refine product requirements and user stories",
+      "Collaborate with engineering, design, and business stakeholders",
+      "Analyze user feedback, metrics, and market trends to inform decisions",
+      "Run discovery sessions and customer interviews",
+      "Drive alignment and decision-making across cross-functional teams"
+    ],
+    "collaborators": [
+      "Software engineers and tech leads",
+      "UX/UI designers",
+      "Business stakeholders and leadership",
+      "Marketing and sales teams",
+      "Customer success and support"
+    ],
+    "behavioralScenarios": [
+      "Prioritizing between competing high-value features with limited engineering capacity",
+      "Receiving conflicting feedback from customers and internal stakeholders",
+      "A feature shipped but did not move the target metric",
+      "Pushing back on an unrealistic deadline or scope request",
+      "Killing a feature that was built but proved ineffective"
+    ],
+    "technicalTopics": [
+      "Product roadmap and backlog management",
+      "User story writing and acceptance criteria",
+      "A/B testing and product experimentation",
+      "Metrics definition and measurement",
+      "User research and customer interviews",
+      "Competitive and market analysis",
+      "Agile and sprint planning",
+      "Go-to-market planning"
+    ],
+    "requiredKeywords": [
+      "product",
+      "roadmap",
+      "feature",
+      "user",
+      "stakeholder",
+      "metric",
+      "requirement",
+      "priority",
+      "engineering",
+      "design",
+      "feedback",
+      "decision",
+      "customer",
+      "experiment",
+      "sprint",
+      "scope"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in product management and describe a product or feature you are most proud of having shipped?"
+      ],
+      "behavioral": [
+        "Prioritization is one of the hardest parts of PM. Tell me about a time you had to choose between two high-value features with limited engineering capacity. How did you make the call and communicate the decision?",
+        "Metrics do not always tell the whole story. Describe a situation where a feature you shipped did not move the target metric as expected. How did you respond and what did you learn?"
+      ],
+      "technical": [
+        "Walk me through how you would define success metrics for a new onboarding flow for a SaaS product. What would you measure, how would you set targets, and how would you decide when the experiment is conclusive?",
+        "You are leading discovery for a feature that engineering estimates at 8 weeks but leadership wants in 4 weeks. Walk me through how you would approach scoping, stakeholder communication, and making the tradeoff."
+      ]
+    }
+  },
+  "DevOps Engineer": {
+    "responsibilities": [
+      "Design, build, and maintain CI/CD pipelines for engineering teams",
+      "Manage cloud infrastructure and provisioning across AWS, GCP, or Azure",
+      "Implement monitoring, alerting, and observability systems",
+      "Enforce security best practices and compliance across infrastructure",
+      "Automate infrastructure provisioning and configuration management",
+      "Support engineering teams with deployment and incident response"
+    ],
+    "collaborators": [
+      "Software engineers",
+      "Security teams",
+      "Platform and SRE teams",
+      "Product managers",
+      "Database administrators"
+    ],
+    "behavioralScenarios": [
+      "Production outage caused by a bad deployment or infrastructure change",
+      "Reducing deployment time from hours to minutes",
+      "Enforcing security compliance without blocking engineering velocity",
+      "A misconfigured infrastructure change causing data loss or downtime",
+      "Migrating services from on-premises to cloud with zero downtime"
+    ],
+    "technicalTopics": [
+      "CI/CD pipeline design (GitHub Actions, Jenkins, CircleCI)",
+      "Container orchestration (Kubernetes, Docker)",
+      "Cloud infrastructure (AWS, GCP, Azure)",
+      "Infrastructure as Code (Terraform, Ansible, Pulumi)",
+      "Monitoring and observability (Prometheus, Grafana, Datadog)",
+      "Security and compliance automation",
+      "Incident response and on-call practices",
+      "Networking and load balancing"
+    ],
+    "requiredKeywords": [
+      "deployment",
+      "pipeline",
+      "CI/CD",
+      "infrastructure",
+      "cloud",
+      "container",
+      "Kubernetes",
+      "Docker",
+      "monitoring",
+      "automation",
+      "security",
+      "terraform",
+      "incident",
+      "service",
+      "availability",
+      "rollback",
+      "build"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in DevOps and describe the kinds of infrastructure or deployment problems you have enjoyed solving?"
+      ],
+      "behavioral": [
+        "Deployments sometimes go wrong. Walk me through a time a deployment you managed caused a production incident — how did you respond, decide whether to roll back or fix forward, and what changes did you make to prevent recurrence?",
+        "CI/CD pipelines are shared infrastructure. Tell me about a time you significantly improved a slow or unreliable pipeline. What was causing the problem and how did you measure the improvement?"
+      ],
+      "technical": [
+        "Design a CI/CD pipeline for a microservices application with 12 services where each service can be deployed independently. Walk me through the pipeline stages, testing gates, rollback strategy, and how you handle service-to-service dependencies.",
+        "Your Kubernetes cluster is running at 80% CPU during normal hours. Walk me through how you would configure horizontal pod autoscaling, set resource requests and limits, and design a load test to validate the scaling behavior."
+      ]
+    }
+  },
+  "QA / Test Engineer": {
+    "responsibilities": [
+      "Design and execute test plans, test cases, and regression suites",
+      "Build and maintain automated test frameworks for functional and non-functional testing",
+      "Perform exploratory and risk-based testing for complex features",
+      "Collaborate with engineers and product managers to clarify acceptance criteria",
+      "Report, triage, and track bugs throughout the development cycle",
+      "Define and monitor quality metrics and test coverage"
+    ],
+    "collaborators": [
+      "Software engineers",
+      "Product managers",
+      "UX/UI designers",
+      "DevOps teams",
+      "Customer support"
+    ],
+    "behavioralScenarios": [
+      "Advocating for more testing time against a hard release deadline",
+      "Finding a critical bug on the day of a release",
+      "Automating a regression suite that was previously done manually",
+      "Disagreement with a developer about whether a behavior is a bug or expected",
+      "Improving test coverage for a legacy module with no existing tests"
+    ],
+    "technicalTopics": [
+      "Test plan design and test case authoring",
+      "Test automation frameworks (Selenium, Playwright, Cypress)",
+      "API testing (Postman, REST-assured)",
+      "Performance and load testing",
+      "Risk-based testing and coverage analysis",
+      "Bug reporting and triage processes",
+      "Continuous testing in CI/CD pipelines",
+      "Accessibility testing"
+    ],
+    "requiredKeywords": [
+      "test",
+      "bug",
+      "quality",
+      "automation",
+      "regression",
+      "coverage",
+      "release",
+      "defect",
+      "test case",
+      "validation",
+      "QA",
+      "scenario",
+      "reproduce",
+      "acceptance",
+      "test plan",
+      "playwright",
+      "cypress",
+      "selenium"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in QA and describe the kinds of testing challenges or quality problems you have found most interesting to solve?"
+      ],
+      "behavioral": [
+        "Quality and deadlines often conflict. Tell me about a time you discovered a critical bug very close to a release deadline. How did you communicate the risk, and what was the outcome?",
+        "Manual testing does not scale. Describe a time you built or significantly improved a test automation suite for a complex feature. What was your approach, what tools did you use, and how did you measure coverage?"
+      ],
+      "technical": [
+        "You are asked to define a test strategy for a new real-time collaboration feature where multiple users edit the same document simultaneously. Walk me through the test types you would write, how you would simulate concurrent users, and what edge cases you would prioritize.",
+        "A test suite that previously ran in 10 minutes now takes 45 minutes, causing developers to skip running it locally. Walk me through how you would diagnose the slowdown and what strategies you would use to bring the runtime back down."
+      ]
+    }
+  },
+  "Security Engineer": {
+    "responsibilities": [
+      "Conduct threat modeling and security design reviews for new features",
+      "Perform vulnerability assessments, penetration testing, and security audits",
+      "Build and maintain security tooling including SAST, DAST, and dependency scanning",
+      "Lead incident response for security events and coordinate remediation",
+      "Define and enforce secure coding standards and developer training",
+      "Manage identity, access control, and secrets management systems"
+    ],
+    "collaborators": [
+      "Software engineers",
+      "DevOps and infrastructure teams",
+      "Product managers",
+      "Legal and compliance",
+      "Leadership and executive stakeholders"
+    ],
+    "behavioralScenarios": [
+      "Discovering a critical vulnerability in production code and coordinating a fast remediation",
+      "Pushing back on a feature launch due to unresolved security risks",
+      "Balancing security controls against engineering velocity and developer experience",
+      "Communicating a security incident and its business impact to non-technical leadership",
+      "Building a security review process that developers adopted without friction"
+    ],
+    "technicalTopics": [
+      "Threat modeling (STRIDE, PASTA)",
+      "Penetration testing and vulnerability assessment",
+      "SAST, DAST, and SCA tooling",
+      "Authentication and authorization (OAuth2, SAML, RBAC)",
+      "Secrets management and key rotation",
+      "Network security and zero-trust architecture",
+      "Incident response and forensics",
+      "Compliance frameworks (SOC 2, GDPR, PCI-DSS)"
+    ],
+    "requiredKeywords": [
+      "security",
+      "vulnerability",
+      "threat",
+      "attack",
+      "authentication",
+      "authorization",
+      "exploit",
+      "penetration",
+      "compliance",
+      "audit",
+      "incident",
+      "encryption",
+      "access control",
+      "SAST",
+      "DAST",
+      "zero-trust",
+      "secrets"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in security engineering and describe the types of threats or security problems you have found most challenging to work on?"
+      ],
+      "behavioral": [
+        "Security and engineering velocity often pull in opposite directions. Tell me about a time you had to enforce a security control that was unpopular with the engineering team. How did you handle the pushback?",
+        "Incidents require fast, clear communication. Walk me through a time you discovered a serious security vulnerability in a production system. How did you assess the impact, prioritize the fix, and communicate with stakeholders?"
+      ],
+      "technical": [
+        "You are doing a security review for a new REST API that handles payments and user PII. Walk me through the threat model you would build, the specific vulnerabilities you would look for, and the controls you would require before approval.",
+        "Your SAST tool surfaces 200 findings across the codebase. Walk me through how you would triage them, distinguish false positives from real risks, and build a remediation plan that engineering can execute without stopping feature work."
+      ]
+    }
+  },
+  "Web Developer": {
+    "responsibilities": [
+      "Build and maintain web pages, landing pages, and web applications",
+      "Implement UI designs accurately across browsers and devices",
+      "Integrate third-party APIs, CMS platforms, and analytics services",
+      "Optimize page performance including load time, Core Web Vitals, and SEO",
+      "Write clean, maintainable HTML, CSS, and JavaScript",
+      "Collaborate with designers and backend teams on feature delivery"
+    ],
+    "collaborators": [
+      "UX/UI designers",
+      "Backend engineers",
+      "Product managers",
+      "Marketing and content teams",
+      "QA engineers"
+    ],
+    "behavioralScenarios": [
+      "Implementing a design that was technically infeasible and finding a workable alternative",
+      "Cross-browser compatibility issue found late that required a fast fix",
+      "Optimizing a slow page without a full rewrite under time pressure",
+      "Integrating a third-party service that had poor documentation",
+      "Balancing design fidelity against responsive layout constraints"
+    ],
+    "technicalTopics": [
+      "HTML, CSS, and JavaScript fundamentals",
+      "Responsive and mobile-first design",
+      "Browser compatibility and progressive enhancement",
+      "Page performance and Core Web Vitals",
+      "CMS integration (WordPress, Contentful, Sanity)",
+      "JavaScript frameworks (React, Vue, Vanilla JS)",
+      "SEO fundamentals and web accessibility",
+      "API integration and data fetching"
+    ],
+    "requiredKeywords": [
+      "web",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "browser",
+      "page",
+      "responsive",
+      "design",
+      "performance",
+      "component",
+      "layout",
+      "accessibility",
+      "SEO",
+      "API",
+      "frontend",
+      "user"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background as a web developer and describe the types of websites or web applications you have most enjoyed building?"
+      ],
+      "behavioral": [
+        "Design and implementation do not always align. Tell me about a time you had to push back on a design because of browser limitations or responsive layout constraints. How did you negotiate the solution?",
+        "Performance affects users directly. Describe a time you significantly improved the load time or Core Web Vitals score of a web page. What did you find, how did you fix it, and how did you measure the improvement?"
+      ],
+      "technical": [
+        "You are building a marketing landing page that needs to achieve a Lighthouse performance score above 90 on mobile, support IE11, and integrate with a headless CMS. Walk me through your tech choices and the trade-offs you would make.",
+        "Describe how you would build a responsive navigation component that works across desktop, tablet, and mobile, handles keyboard accessibility, and degrades gracefully in browsers without JavaScript."
+      ]
+    }
+  },
+  "Mobile Developer (iOS/Android)": {
+    "responsibilities": [
+      "Design and build native or cross-platform mobile app features for iOS and Android",
+      "Optimize app performance including startup time, memory usage, and battery consumption",
+      "Implement offline-first data sync and local persistence strategies",
+      "Integrate device APIs such as camera, push notifications, GPS, and biometrics",
+      "Manage app store submission, release, and version management",
+      "Collaborate with backend engineers on mobile API design and data contracts"
+    ],
+    "collaborators": [
+      "UX/UI designers",
+      "Backend engineers",
+      "Product managers",
+      "QA engineers",
+      "DevOps and release engineers"
+    ],
+    "behavioralScenarios": [
+      "Debugging a crash reported by users on a specific device or OS version",
+      "Shipping a release with a tight App Store review deadline",
+      "Optimizing an app that was draining battery or causing excessive memory usage",
+      "Implementing an offline mode for a feature that previously required network connectivity",
+      "Disagreement with a designer about mobile UX patterns that conflicted with platform conventions"
+    ],
+    "technicalTopics": [
+      "Native development (Swift/SwiftUI for iOS, Kotlin/Jetpack Compose for Android)",
+      "Cross-platform frameworks (React Native, Flutter)",
+      "Push notifications and background processing",
+      "Offline storage and data sync (Core Data, Room, SQLite)",
+      "App performance profiling and memory management",
+      "Mobile authentication (OAuth, biometrics, keychain/keystore)",
+      "App store deployment and versioning",
+      "REST API integration and mobile-specific API design"
+    ],
+    "requiredKeywords": [
+      "mobile",
+      "iOS",
+      "Android",
+      "app",
+      "native",
+      "push notification",
+      "offline",
+      "performance",
+      "crash",
+      "device",
+      "Swift",
+      "Kotlin",
+      "React Native",
+      "Flutter",
+      "store",
+      "API",
+      "battery",
+      "memory"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in mobile development and describe the platforms, frameworks, and types of apps you have most enjoyed building?"
+      ],
+      "behavioral": [
+        "Mobile crashes can happen silently and at scale. Tell me about a time you investigated and resolved a crash that was affecting a significant number of users. How did you identify the root cause and validate the fix?",
+        "App Store releases have hard deadlines. Describe a time a mobile release was at risk due to a last-minute bug or App Store rejection. How did you handle it and what did you change in your process?"
+      ],
+      "technical": [
+        "You need to add offline support to a mobile app that currently requires a live connection. The user should be able to create, edit, and delete records offline, with changes syncing automatically when connectivity is restored. Walk me through your data model, sync strategy, and conflict resolution approach.",
+        "Your mobile app is causing excessive battery drain on Android. Walk me through how you would profile the app, identify the source of the drain, and implement a fix without degrading the user experience."
+      ]
+    }
+  },
+  "Business Analyst": {
+    "responsibilities": [
+      "Gather, document, and validate business and functional requirements from stakeholders",
+      "Analyze current business processes and identify gaps, inefficiencies, and improvement opportunities",
+      "Write clear user stories, use cases, and acceptance criteria",
+      "Facilitate workshops and interviews to align stakeholders on requirements",
+      "Create process maps, data flow diagrams, and requirements traceability matrices",
+      "Support testing and UAT by verifying that delivered features meet business requirements"
+    ],
+    "collaborators": [
+      "Product managers",
+      "Software engineers",
+      "Business stakeholders and executives",
+      "QA engineers",
+      "Operations and finance teams"
+    ],
+    "behavioralScenarios": [
+      "Reconciling conflicting requirements from different stakeholders",
+      "A delivered feature that did not meet the intended business requirement",
+      "Facilitating a workshop where stakeholders could not reach agreement",
+      "Discovering a process gap that was causing significant downstream errors",
+      "Communicating a complex technical constraint to a non-technical business owner"
+    ],
+    "technicalTopics": [
+      "Requirements elicitation and documentation (BRD, FRD)",
+      "Process modeling (BPMN, flowcharts, swimlane diagrams)",
+      "User story writing and acceptance criteria (Gherkin/BDD)",
+      "Data analysis and reporting (SQL, Excel, BI tools)",
+      "Use case and scenario documentation",
+      "Gap analysis and impact assessment",
+      "Stakeholder management and facilitation",
+      "UAT planning and execution support"
+    ],
+    "requiredKeywords": [
+      "requirement",
+      "stakeholder",
+      "process",
+      "business",
+      "user story",
+      "acceptance criteria",
+      "analysis",
+      "gap",
+      "documentation",
+      "workflow",
+      "use case",
+      "scope",
+      "validation",
+      "elicitation",
+      "UAT",
+      "solution"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background as a business analyst and describe the types of business problems or projects you have found most interesting to analyze and solve?"
+      ],
+      "behavioral": [
+        "Stakeholders rarely agree on requirements. Tell me about a time you had to facilitate alignment between stakeholders with conflicting priorities or requirements. How did you drive consensus?",
+        "Requirements on paper do not always match reality. Describe a time a solution you helped specify was delivered but did not fully meet the business need. How did you identify the gap, communicate it, and work toward a fix?"
+      ],
+      "technical": [
+        "A department head asks you to improve a manual order fulfilment process that involves three teams and four systems. Walk me through how you would conduct the discovery, document the current state, identify gaps, and write requirements for the future state.",
+        "Write acceptance criteria in Gherkin format for a user story where a customer should be able to request a refund for an order placed in the last 30 days, with automatic approval for orders under $50 and manual review for larger amounts."
+      ]
+    }
+  },
+  "Project Manager": {
+    "responsibilities": [
+      "Plan, schedule, and track delivery of projects across cross-functional teams",
+      "Define project scope, milestones, and success criteria in collaboration with stakeholders",
+      "Identify and mitigate project risks, dependencies, and blockers",
+      "Run sprint planning, stand-ups, retrospectives, and stakeholder status meetings",
+      "Manage project budgets, resource allocation, and capacity planning",
+      "Communicate project status, risks, and decisions to leadership and stakeholders"
+    ],
+    "collaborators": [
+      "Engineering teams and tech leads",
+      "Product managers",
+      "Business stakeholders and executives",
+      "Design and QA teams",
+      "Finance and operations"
+    ],
+    "behavioralScenarios": [
+      "A critical dependency slipped and threatened the project delivery date",
+      "Scope creep requested by a senior stakeholder after the project was underway",
+      "A key team member became unavailable mid-project and required rapid re-planning",
+      "A project was significantly behind schedule and required a plan to recover",
+      "Conflicting stakeholder priorities that needed to be resolved before work could proceed"
+    ],
+    "technicalTopics": [
+      "Project planning and scheduling (Gantt, critical path)",
+      "Risk identification and mitigation planning",
+      "Agile and Scrum delivery (sprints, backlogs, ceremonies)",
+      "Resource and capacity planning",
+      "Stakeholder communication and reporting",
+      "Dependency mapping and management",
+      "Budget tracking and financial reporting",
+      "Change management and scope control"
+    ],
+    "requiredKeywords": [
+      "project",
+      "delivery",
+      "milestone",
+      "stakeholder",
+      "scope",
+      "risk",
+      "timeline",
+      "resource",
+      "dependency",
+      "planning",
+      "sprint",
+      "budget",
+      "status",
+      "escalation",
+      "schedule",
+      "team",
+      "deadline"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in project management and describe the types of projects or delivery challenges you have found most rewarding to lead?"
+      ],
+      "behavioral": [
+        "Projects rarely go exactly to plan. Tell me about a time a key dependency slipped and put your project timeline at risk. How did you identify it early, communicate the impact, and adjust the plan?",
+        "Stakeholders often ask for more scope after a project is underway. Describe a time you had to push back on a scope change request from a senior stakeholder. How did you frame the conversation and what was the outcome?"
+      ],
+      "technical": [
+        "You are leading a 6-month cross-functional project to migrate a legacy system to a new platform. Three engineering teams, a QA team, and an external vendor are involved. Walk me through how you would build the project plan, identify critical path dependencies, and track weekly progress.",
+        "Two weeks before a major release, your critical path analysis shows you are 10 days behind schedule. Walk me through the options you would evaluate, how you would present the trade-offs to leadership, and what recovery plan you would recommend."
+      ]
+    }
+  },
+  "QA Engineer": {
+    "responsibilities": [
+      "Design and execute test plans, test cases, and regression suites",
+      "Build and maintain automated test frameworks for functional and non-functional testing",
+      "Perform exploratory and risk-based testing for complex features",
+      "Collaborate with engineers and product managers to clarify acceptance criteria",
+      "Report, triage, and track bugs throughout the development cycle",
+      "Define and monitor quality metrics and test coverage"
+    ],
+    "collaborators": [
+      "Software engineers",
+      "Product managers",
+      "UX/UI designers",
+      "DevOps teams",
+      "Customer support"
+    ],
+    "behavioralScenarios": [
+      "Advocating for more testing time against a hard release deadline",
+      "Finding a critical bug on the day of a release",
+      "Automating a regression suite that was previously done manually",
+      "Disagreement with a developer about whether a behavior is a bug or expected",
+      "Improving test coverage for a legacy module with no existing tests"
+    ],
+    "technicalTopics": [
+      "Test plan design and test case authoring",
+      "Test automation frameworks (Selenium, Playwright, Cypress)",
+      "API testing (Postman, REST-assured)",
+      "Performance and load testing",
+      "Risk-based testing and coverage analysis",
+      "Bug reporting and triage processes",
+      "Continuous testing in CI/CD pipelines",
+      "Accessibility testing"
+    ],
+    "requiredKeywords": [
+      "test",
+      "bug",
+      "quality",
+      "automation",
+      "regression",
+      "coverage",
+      "release",
+      "defect",
+      "test case",
+      "validation",
+      "QA",
+      "scenario",
+      "reproduce",
+      "acceptance",
+      "test plan",
+      "playwright",
+      "cypress",
+      "selenium"
+    ],
+    "exampleGoodQuestions": {
+      "intro": [
+        "Can you walk us through your background in QA and describe the kinds of testing challenges or quality problems you have found most interesting to solve?"
+      ],
+      "behavioral": [
+        "Quality and deadlines often conflict. Tell me about a time you discovered a critical bug very close to a release deadline. How did you communicate the risk, and what was the outcome?",
+        "Manual testing does not scale. Describe a time you built or significantly improved a test automation suite for a complex feature. What was your approach, what tools did you use, and how did you measure coverage?"
+      ],
+      "technical": [
+        "You are asked to define a test strategy for a new real-time collaboration feature where multiple users edit the same document simultaneously. Walk me through the test types you would write, how you would simulate concurrent users, and what edge cases you would prioritize.",
+        "A test suite that previously ran in 10 minutes now takes 45 minutes, causing developers to skip running it locally. Walk me through how you would diagnose the slowdown and what strategies you would use to bring the runtime back down."
+      ]
+    }
+  }
+}
