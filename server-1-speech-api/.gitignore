@@ -1,0 +1,16 @@
+models/                                                                                              
+   storage/uploads/*                                                                                          
+   !storage/uploads/.gitkeep                                                                                  
+   __pycache__/                                                                                               
+   *.pyc                                                                                                      
+   *.pyo                                                                                                      
+   .venv/                                                                                                     
+   venv/                                                                                                      
+   env/                                                                                                       
+   .env                                                                                                       
+   .env.local                                                                                                 
+   .env*.local                                                                                                
+   *.log                                                                                                      
+   .DS_Store
+storage/tts/*                                                                                        
+   !storage/tts/.gitkeep
